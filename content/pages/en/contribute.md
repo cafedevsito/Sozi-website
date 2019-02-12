@@ -1,37 +1,35 @@
-Title: Contribute
+Title: Contribuir
 Slug: contribute
-Lang: en
+Lang: es
 Status: hidden
-Authors: Guillaume Savaton
+Authors: Gorosito, Carlos F.
 
-The source code of Sozi is hosted in the following repositories:
+El código fuente de Sozi se aloja en los siguientes repositorios:
 
-* [The presentation editor](https://github.com/senshu/Sozi)
-* [The PDF and video exporter](https://github.com/senshu/Sozi-export)
-* [This web site](https://github.com/senshu/Sozi-website)
+* [El editor de presentaciones](https://github.com/senshu/Sozi)
+* [Para exportar a PDF y a video](https://github.com/senshu/Sozi-export)
+* [Este sitio web](https://github.com/senshu/Sozi-website)
 
-Even if you are not a programmer, there are several other ways you can contribute to Sozi:
+Incluso si no eres programador hay muchas maneras con las que puedes contribuir a Sozi:
 
-* [Report issues about the presentation editor](https://github.com/senshu/Sozi/issues)
-* [Report issues about the presentation exporter](https://github.com/senshu/Sozi-export/issues)
-* [Report issues about this web site](https://github.com/senshu/Sozi-website/issues)
-* [Translate the user interface of the editor to your native language](|filename|translate-editor.md)
-* [Translate the web site to your native language](|filename|translate-web-site.md)
-* [Help others at the Sozi community forum](/community)
+* [Reportar problemas acerca del editor de presentaciones](https://github.com/senshu/Sozi/issues)
+* [Reportar problemas acerca del exportador de presentaciones](https://github.com/senshu/Sozi-export/issues)
+* [Reportar problemas acerca de este sitio](https://github.com/senshu/Sozi-website/issues)
+* [Traducir la interfaz de usuario del editor a tu lenguaje nativo](|filename|translate-editor.md)
+* [Traducir este sitio web a tu lenguaje nativo](|filename|translate-web-site.md)
+* [Ayudar a otros en el foro de la comunidad de Sozi](/community)
 
-List of contributors
+Lista de contribuyentes
 --------------------
 
-Sozi is mainly developed by [one person](http://guillaume.baierouge.fr)
-with the help of many regular or occasional contributors.
-There is currently no development team per se.
+Sozi es desarrollado principalmente por [una persona](http://guillaume.baierouge.fr)
+con la ayuda de muchos contribuyentes regulares.
+No hay actualmente un equipo de desarrollo per se.
 
-The following list mentions the people that have participated in the development of Sozi
-in different ways: development of the software itself or additional tools, patches,
-translation of the software or the web site, documentation, promotion of Sozi.
+La siguiente lista menciona a aquellas personas que han participado del desarrollo de Sozi
+de diferentes maneras: desarrollo del software en sí mismo o con herramientas adicionales, parches, traducciones, documentación, promoción de Sozi.
 
-If your name has been omitted, or if you do not wish your name to appear in this list,
-please contact us.
+Si tu nombre ha sido omitido o si no deseas que tu nombre aparezca aquí, por favor contáctanos.
 
 [Javier del Álamo](https://github.com/javialamo),
 [Olivier Banus](https://launchpad.net/~sunab),
@@ -95,3 +93,4 @@ André Lage,
 [Kai Wegner](https://github.com/kai-wegner),
 Jean-François Witz,
 [Morten Juhl-Johansen Zölde-Fejér](https://launchpad.net/~mjjzf)
+[Gorosito Carlos F.](http://codigo.store)
