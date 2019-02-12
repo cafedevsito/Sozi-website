@@ -1,17 +1,17 @@
-Title: About Sozi
+Title: Acerca de Sozi
 Slug: 10-about
-Lang: en
-Authors: Guillaume Savaton
+Lang: es
+Authors: Gorosito, Carlos F.
 
-Sozi is a zooming presentation editor and player.
+Sozi es un editor y reproductor de presentaciones con acercamientos zoom.
 
-Unlike in most presentation applications, a Sozi document is not organised as a slideshow,
-but rather as a poster where the content of your presentation can be freely laid out.
-Playing such a presentation consists in a series of translations, zooms and rotations
-that allow to focus on the elements you want to show.
+A diferencia de las aplicaciones de presentaciones, un documento Sozi no está organizado como una línea recta (uno al lado del otro)
+sino como un póster donde el contenido de tu presentación puede estar libremente en una página de libro.
+Ejecutar la presentación consiste en una serie de traslaciones, acercamientos y rotaciones de cámara
+que te permite enfocar en los elementos que deseás mostrar.
 
-Sozi is based on open standards.
-It is free software distributed according to the terms of the
+Sozi está basado en estándares abiertos.
+Es software libre distribuido de acuerdo a los términos de la 
 [Mozilla Public License 2.0](http://www.mozilla.org/MPL/2.0/).
 
 <iframe class="sozi" src="|filename|/presentations/this-is-not-a-slideshow.sozi.html">
